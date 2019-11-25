@@ -6,7 +6,7 @@ Student
 
 DeniaC5657@hstat.org
 
-_Denia grew up in Brooklyn,NY in 2003. She begin her life as a student._
+_Denia grew up in Brooklyn, NY in 2003. She begin her life as a student._
 
 https://sites.google.com/a/hstat.org/deniac5657sep10/
 
@@ -28,3 +28,4 @@ https://sites.google.com/a/hstat.org/deniac5657sep10/
 
 8. Physical
 
+Reviewed by Jazmin N
